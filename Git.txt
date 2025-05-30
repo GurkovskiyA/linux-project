@@ -1,1 +1,4 @@
-Test Git
+Test Git 
+Command Git/GitHub
+git add . 
+gir origin 
